@@ -1,9 +1,12 @@
 ## Hi there 👋
-![Uploading image.png…]()
-[![Sirada’s github stats](https://github-readme-stats.vercel.app/api?username=SUiD07)](https://github.com/SUiD07)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUiD07&layout=compact)](https://github.com/SUiD07)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUiD07&theme=graywhite&show_icons=true&hide_border=true&layout=compact" alt="SUiD07's GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUiD07&theme=graywhite&hide_border=true" alt="SUiD07's GitHub Stats" />
+
 <!--
+[![Sirada’s github stats](https://github-readme-stats.vercel.app/api?username=SUiD07)](https://github.com/SUiD07)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUiD07&layout=compact)](https://github.com/SUiD07)
+![Uploading image.png…]()
 **SUiD07/SUiD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
