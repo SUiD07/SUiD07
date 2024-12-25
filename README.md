@@ -1,5 +1,8 @@
 ## Hi there 👋
+![Uploading image.png…]()
+[![Sirada’s github stats](https://github-readme-stats.vercel.app/api?username=SUiD07)](https://github.com/SUiD07)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SUiD07&layout=compact)](https://github.com/SUiD07)
 <!--
 **SUiD07/SUiD07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
